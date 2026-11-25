@@ -1,0 +1,26 @@
+// lib/content.ts
+
+export const siteContent = {
+  brand: {
+    name: "[NOM_DU_PRODUIT]",
+  },
+
+  nav: [
+    { label: "Fonctionnalités", href: "#fonctionnalites" },
+    { label: "Pour les artistes", href: "#artistes" },
+    { label: "Tarifs", href: "#tarifs" },
+    { label: "FAQ", href: "#faq" },
+  ],
+
+  hero: {},
+  problem: {},
+  solution: {},
+  howItWorks: {},
+  features: {},
+  electronic: {},
+  differentiation: {},
+  pricing: {},
+  faq: {},
+  finalCta: {},
+  footer: {},
+};
